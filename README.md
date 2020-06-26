@@ -18,12 +18,13 @@ VJ......とまでいかなくとも、音楽と連携させたVFX表現見たい
 
 ### sound vfx 0.1
 
+![img](./screenshots/scshot.png)
+
 AudioSourceから取り込んだ音声のスペクトラムをVFXに読み込んで連携させるサンプル。グリグリ動かせるのでたのしい(個人的に)
 
-Release Page: [Here](https://github.com/drumath2237/VJ-VFX/releases/tag/v0.1-sound-vfx-sample)
-Demo Movie: [Here](https://www.youtube.com/watch?v=mpM2RULc-h8)
-
-Music by: [かぎはずむ](https://www.twitter.com/HazumuKagi)
+- Release Page: [Here](https://github.com/drumath2237/VJ-VFX/releases/tag/v0.1-sound-vfx-sample)
+- Demo Movie: [Here](https://www.youtube.com/watch?v=mpM2RULc-h8)
+- Music by: [かぎはずむ](https://www.twitter.com/HazumuKagi)
 
 ## Contacts
 
